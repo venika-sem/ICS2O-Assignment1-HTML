@@ -3,7 +3,7 @@
 * This file contains the CSS for index.html
 */
 
-@import "url"(https://fonts.googleapis.com/css?family=Times New Roman;)
+@import "url"(https://fonts.googleapis.com/css?family=Times New Roman);
 
 @import "url"(https://fonts.googleapis.com/css?family=Times New Roman);
 
@@ -25,7 +25,7 @@ h2,
 ul,
 a p:hover {
   text-align: center;
-    }
+}
 
 h1 {
   color: darkslategray;
@@ -91,7 +91,7 @@ blockquote {
   margin-top: 0px;
 }
 
-a p:hover{
+a {
   text-decoration: none;
   color: #6d5a40;
   margin: 20px
@@ -101,6 +101,6 @@ a p:hover {
   color: #d1a83b;
 }
 
-a p:hover {
+a p {
   font-size: 20px;
 }
