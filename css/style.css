@@ -2,18 +2,17 @@
 
 @import url(https://fonts.googleapis.com/css?family=Times New Roman);
 
-
 body {
-  background-color: #E9967A;
+  background-color: #e99667a;
 }
 
 .content {
-  background-color:  	#FFEBCD;
-  color: #B8860B;
-  font-family: "Lato", sans-serif;
+  background-color:  	#ffebcd;
+  color: #b8860b;
+  font-family: Lato, sans-serif;
   max-width: 1080px;
   margin: 0 auto;
-  border: 3px solid #D1A83B;
+  border: 3px solid #d1a83b;
 }
 
 h1, h2, ul, a p {
@@ -21,20 +20,20 @@ h1, h2, ul, a p {
     }
 
 h1 {
-  color: DarkSlateGray;
+  color: darkSlateGray;
   font-family: "Times New Roman", Times, serif;
   font-size: 70px;
   padding-top: 20px;
 }
 
 h2 {
-  color: LightCoral;
+  color: lightCoral;
   font-size: 40px;
   padding-top: 5px;
 }
 
 li {
-  color: DarkSlateGray;
+  color: darkSlateGray;
   display: inline-block;
   font-size: 25px;
   padding: 10px;
@@ -44,7 +43,7 @@ li {
   display: block;
   margin: 0 auto;
   border-radius: 0%;
-  border: px solid #000000;
+  border: px solid #000;
 }
 
 blockquote {
@@ -55,7 +54,7 @@ blockquote {
 }
 
 .noteworthy {
-  color: SaddleBrown;
+  color: saddleBrown;
   max-width: 760px;
   padding: 20px;
   margin: 0 auto;
@@ -91,7 +90,7 @@ a {
 } 
 
 a p:hover {
-  color: #D1A83B;
+  color: #d1a83b;
 }
 
 a p {
