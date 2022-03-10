@@ -91,7 +91,7 @@ blockquote {
   margin-top: 0px;
 }
 
-a {
+a p:hover{
   text-decoration: none;
   color: #6d5a40;
   margin: 20px
@@ -101,6 +101,6 @@ a p:hover {
   color: #d1a83b;
 }
 
-a p {
+a p:hover {
   font-size: 20px;
 }
