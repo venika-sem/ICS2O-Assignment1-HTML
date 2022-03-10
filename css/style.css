@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Times New Roman;)
+@import "url"(https://fonts.googleapis.com/css?family=Times New Roman;)
 
-@import url(https://fonts.googleapis.com/css?family=Times New Roman);
+@import "url"(https://fonts.googleapis.com/css?family=Times New Roman);
 
 body {
-  background-color: #e99667a;
+  background-color: #ffa07a;
 }
 
 .content {
@@ -15,7 +15,10 @@ body {
   border: 3px solid #d1a83b;
 }
 
-h1, h2, ul, a p {
+h1,
+h2,
+ul,
+a p {
   text-align: center;
     }
 
