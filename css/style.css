@@ -7,7 +7,7 @@ body {
 }
 
 .content {
-  background-color:  	#ffebcd;
+  background-color: #ffebcd;
   color: #b8860b;
   font-family: Lato, sans-serif;
   max-width: 1080px;
@@ -18,25 +18,25 @@ body {
 h1,
 h2,
 ul,
-a p {
+a p:hover {
   text-align: center;
     }
 
 h1 {
-  color: darkSlateGray;
+  color: darkslategray;
   font-family: "Times New Roman", Times, serif;
   font-size: 70px;
   padding-top: 20px;
 }
 
 h2 {
-  color: lightCoral;
+  color: lightcoral;
   font-size: 40px;
   padding-top: 5px;
 }
 
 li {
-  color: darkSlateGray;
+  color: darkslategray;
   display: inline-block;
   font-size: 25px;
   padding: 10px;
@@ -57,7 +57,7 @@ blockquote {
 }
 
 .noteworthy {
-  color: saddleBrown;
+  color: saddlebrown;
   max-width: 760px;
   padding: 20px;
   margin: 0 auto;
