@@ -4,82 +4,85 @@
 */
 
 body {
-    background-color: #ffa07a;
+     background-color: #ffa07a;
 }
 .content {
-    background-color: #ffebcd;
-    color: #b8860b;
-    font-family: Lato, sans-serif;
-    max-width: 1080px;
-    margin: 0 auto;
-    border: 3px solid #d1a83b;
+     background-color: #ffebcd;
+     color: #b8860b;
+     font-family: Lato, sans-serif;
+     max-width: 1080px;
+     margin: 0 auto;
+     border: 3px solid #d1a83b;
 }
-h1, h2, ul, a p {
-    text-align: center;
+h1, 
+h2,
+ul,
+a p {
+     text-align: center;
 }
 h1 {
-    color: darkslategray;
-    font-family: "Times New Roman", Times, serif;
-    font-size: 70px;
-    padding-top: 20px;
+     color: darkslategray;
+     font-family: "Times New Roman", Times, serif;
+     font-size: 70px;
+     padding-top: 20px;
 }
 h2 {
-    color: lightcoral;
-    font-size: 40px;
-    padding-top: 5px;
+     color: lightcoral;
+     font-size: 40px;
+     padding-top: 5px;
 }
 li {
-    color: darkslategray;
-    display: inline-block;
-    font-size: 25px;
-    padding: 10px;
+     color: darkslategray;
+     display: inline-block;
+     font-size: 25px;
+     padding: 10px;
 }
 .main-pic {
-    display: block;
-    margin: 0 auto;
-    border-radius: 0%;
-    border: px solid #000;
+     display: block;
+     margin: 0 auto;
+     border-radius: 0%;
+     border: px solid #000;
 }
 blockquote {
-    text-align: center;
-    font-size: 22px;
-    font-family: "Indie Flower", cursive;
-    margin: 50px;
+     text-align: center;
+     font-size: 22px;
+     font-family: "Indie Flower", cursive;
+     margin: 50px;
 }
 .noteworthy {
-    color: saddlebrown;
-    max-width: 760px;
-    padding: 20px;
-    margin: 0 auto;
-    clear: both;
+     color: saddlebrown;
+     max-width: 760px;
+     padding: 20px;
+     margin: 0 auto;
+     clear: both;
 }
 .tl-img {
-    width: 200px;
-    height: 100px;
-    background-color: white;
-    border: 2px solid #6a5329;
-    margin-right: 15px;
-    float: left;
-    margin-top: 10px;
+     width: 200px;
+     height: 100px;
+     background-color: white;
+     border: 2px solid #6a5329;
+     margin-right: 15px;
+     float: left;
+     margin-top: 10px;
 }
 .h3 {
-    font-size: 25px;
-    padding-top: 0px;
-    margin-top: 0px;
-    margin-bottom: 5px;
+     font-size: 25px;
+     padding-top: 0px;
+     margin-top: 0px;
+     margin-bottom: 5px;
 }
 .description {
-    font-size: 18px;
-    margin-top: 0px;
+     font-size: 18px;
+     margin-top: 0px;
 }
 a p {
-    text-decoration: none;
-    color: #6d5a40;
-    margin: 20px
+     text-decoration: none;
+     color: #6d5a40;
+     margin: 20px
+}
+a p {
+     color: #d1a83b;
 }
 a p:hover {
-    color: #d1a83b;
-}
-a p:hover {
-    font-size: 20px;
+     font-size: 20px;
 }
