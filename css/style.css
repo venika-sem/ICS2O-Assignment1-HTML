@@ -11,9 +11,9 @@ body {
   background-color: #ffebcd;
   color: #b8860b;
   font-family: Lato, sans-serif;
-  max-width: 1080px;
+  max-width: 11.25in;
   margin: 0 auto;
-  border: 3px solid #d1a83b;
+  border: 0.03125in solid #d1a83b;
 }
 
 h1,
@@ -26,21 +26,21 @@ a p {
 h1 {
   color: darkslategray;
   font-family: "Times New Roman", Times, serif;
-  font-size: 70px;
-  padding-top: 20px;
+  font-size: 0.729167in;
+  padding-top: 0.208333in;
 }
 
 h2 {
   color: lightcoral;
-  font-size: 40px;
-  padding-top: 5px;
+  font-size: 0.416667in;
+  padding-top: 0.052083in;
 }
 
 li {
   color: darkslategray;
   display: inline-block;
-  font-size: 25px;
-  padding: 10px;
+  font-size: 0.260417in;
+  padding: 0.104167in;
 }
 
 .main-pic {
@@ -52,51 +52,48 @@ li {
 
 blockquote {
   text-align: center;
-  font-size: 22px;
+  font-size: 0.229167in;
   font-family: "Indie Flower", cursive;
-  margin: 50px;
+  margin: 0.520833in;
 }
 
 .noteworthy {
   color: saddlebrown;
-  max-width: 760px;
-  padding: 20px;
+  max-width: 7.916667in;
+  padding: 0.208333in;
   margin: 0 auto;
   clear: both;
 }
 
 .tl-img {
-  width: 200px;
-  height: 100px;
+  width: 2.083333in;
+  height: 1.041667in;
   background-color: white;
-  border: 2px solid #6a5329;
-  margin-right: 15px;
+  border: 0.020833in solid #6a5329;
+  margin-right: 0.15625in;
   float: left;
-  margin-top: 10px;
+  margin-top: 0.104167in;
 }
 
 .h3 {
-  font-size: 25px;
-  padding-top: 0px;
-  margin-top: 0px;
-  margin-bottom: 5px;
+  font-size: 0.260417in;
+  padding-top: 0in;
+  margin-top: 0in;
+  margin-bottom: 0.052083in;
 }
 
 .description {
-  font-size: 18px;
-  margin-top: 0px;
-}
-
-a p {
-  text-decoration: none;
-  color: #6d5a40;
-  margin: 20px
+  font-size: 0.1875in;
+  margin-top: 0in;
 }
 
 a p {
   color: #d1a83b;
+  text-decoration: none;
+  color: #6d5a40;
+  margin: 0.208333in
 }
 
 a p:hover {
-  font-size: 20px;
+  font-size: 0.208333in;
 }
