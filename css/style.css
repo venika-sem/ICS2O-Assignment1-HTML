@@ -13,7 +13,7 @@ body {
   font-family: Lato, sans-serif;
   max-width: 11.25in;
   margin: 0 auto;
-  border: 0.03125in solid #d1a83b;
+  border: 0.0313in solid #d1a83b;
 }
 
 h1,
@@ -26,21 +26,21 @@ a p {
 h1 {
   color: darkslategray;
   font-family: "Times New Roman", Times, serif;
-  font-size: 0.729167in;
-  padding-top: 0.208333in;
+  font-size: 0.7292in;
+  padding-top: 0.2083in;
 }
 
 h2 {
   color: lightcoral;
-  font-size: 0.416667in;
-  padding-top: 0.052083in;
+  font-size: 0.4167in;
+  padding-top: 0.0521in;
 }
 
 li {
   color: darkslategray;
   display: inline-block;
-  font-size: 0.260417in;
-  padding: 0.104167in;
+  font-size: 0.2604in;
+  padding: 0.1042in;
 }
 
 .main-pic {
@@ -52,34 +52,34 @@ li {
 
 blockquote {
   text-align: center;
-  font-size: 0.229167in;
+  font-size: 0.2292in;
   font-family: "Indie Flower", cursive;
-  margin: 0.520833in;
+  margin: 0.5208in;
 }
 
 .noteworthy {
   color: saddlebrown;
-  max-width: 7.916667in;
-  padding: 0.208333in;
+  max-width: 7.9167in;
+  padding: 0.2083in;
   margin: 0 auto;
   clear: both;
 }
 
 .tl-img {
-  width: 2.083333in;
-  height: 1.041667in;
+  width: 2.0833in;
+  height: 1.0417in;
   background-color: white;
-  border: 0.020833in solid #6a5329;
-  margin-right: 0.15625in;
+  border: 0.0208in solid #6a5329;
+  margin-right: 0.1563in;
   float: left;
-  margin-top: 0.104167in;
+  margin-top: 0.1042in;
 }
 
 .h3 {
-  font-size: 0.260417in;
+  font-size: 0.2604in;
   padding-top: 0in;
   margin-top: 0in;
-  margin-bottom: 0.052083in;
+  margin-bottom: 0.0521in;
 }
 
 .description {
@@ -90,10 +90,10 @@ blockquote {
 a p {
   color: #d1a83b;
   text-decoration: none;
-  color: #6d5a40;
-  margin: 0.208333in
+  color2: #6d5a40;
+  margin: 0.2083in
 }
 
 a p:hover {
-  font-size: 0.208333in;
+  font-size: 0.2083in;
 }
