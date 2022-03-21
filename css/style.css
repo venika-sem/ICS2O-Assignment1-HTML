@@ -77,23 +77,22 @@ blockquote {
 
 .h3 {
   font-size: 0.2604in;
-  padding-top: 0in;
-  margin-top: 0in;
+  padding-top: 0;
+  margin-top: 0;
   margin-bottom: 0.0521in;
 }
 
 .description {
   font-size: 0.1875in;
-  margin-top: 0in;
+  margin-top: 0;
 }
 
 a p {
   color: #d1a83b;
   text-decoration: none;
-  color2: #6d5a40;
-  margin: 0.2083in
+  color-1: #6d5a40;
+  margin: 0.2083in;
 }
-
 a p:hover {
   font-size: 0.2083in;
 }
