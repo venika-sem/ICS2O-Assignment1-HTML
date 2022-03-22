@@ -4,10 +4,12 @@
 */
 
 body {
+  
   background-color: #ffa07a;
 }
 
 .content {
+  
   background-color: #ffebcd;
   color: #b8860b;
   font-family: Lato, sans-serif;
@@ -20,10 +22,12 @@ h1,
 h2,
 ul,
 a p {
+  
   text-align: center;
 }
 
 h1 {
+  
   color: darkslategray;
   font-family: "Times New Roman", Times, serif;
   font-size: 0.7292in;
@@ -31,12 +35,14 @@ h1 {
 }
 
 h2 {
+  
   color: lightcoral;
   font-size: 0.4167in;
   padding-top: 0.0521in;
 }
 
 li {
+  
   color: darkslategray;
   display: inline-block;
   font-size: 0.2604in;
@@ -44,6 +50,7 @@ li {
 }
 
 .main-pic {
+  
   display: block;
   margin: 0 auto;
   border-radius: 0%;
@@ -51,6 +58,7 @@ li {
 }
 
 blockquote {
+  
   text-align: center;
   font-size: 0.2292in;
   font-family: "Indie Flower", cursive;
@@ -58,6 +66,7 @@ blockquote {
 }
 
 .noteworthy {
+  
   color: saddlebrown;
   max-width: 7.9167in;
   padding: 0.2083in;
@@ -66,6 +75,7 @@ blockquote {
 }
 
 .tl-img {
+  
   width: 2.0833in;
   height: 1.0417in;
   background-color: white;
@@ -76,6 +86,7 @@ blockquote {
 }
 
 .h3 {
+  
   font-size: 0.2604in;
   padding-top: 0;
   margin-top: 0;
@@ -83,16 +94,20 @@ blockquote {
 }
 
 .description {
+  
   font-size: 0.1875in;
   margin-top: 0;
 }
 
 a p {
+  
   color: #d1a83b;
   text-decoration: none;
-  color-1: #6d5a40;
+  color: #6d5a40;
   margin: 0.2083in;
 }
+
 a p:hover {
+  
   font-size: 0.2083in;
 }
