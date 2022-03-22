@@ -19,18 +19,18 @@ body {
 h1,
 h2,
 ul,
-a p { 
+a p {
   text-align: center;
 }
 
-h1 { 
+h1 {
   color: darkslategray;
   font-family: "Times New Roman", Times, serif;
   font-size: 0.7292in;
   padding-top: 0.2083in;
 }
 
-h2 { 
+h2 {
   color: lightcoral;
   font-size: 0.4167in;
   padding-top: 0.0521in;
@@ -75,25 +75,21 @@ blockquote {
   margin-top: 0.1042in;
 }
 
-.h3 { 
+.h3 {
   font-size: 0.2604in;
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0.0521in;
 }
 
-.description { 
+.description {
   font-size: 0.1875in;
   margin-top: 0;
 }
 
-a p {
+p {
   color: #d1a83b;
   text-decoration: none;
-  color: #6d5a40;
   margin: 0.2083in;
-}
-
-a p:hover {
   font-size: 0.2083in;
 }
