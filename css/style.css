@@ -4,12 +4,10 @@
 */
 
 body {
-  
   background-color: #ffa07a;
 }
 
 .content {
-  
   background-color: #ffebcd;
   color: #b8860b;
   font-family: Lato, sans-serif;
@@ -21,28 +19,24 @@ body {
 h1,
 h2,
 ul,
-a p {
-  
+a p { 
   text-align: center;
 }
 
-h1 {
-  
+h1 { 
   color: darkslategray;
   font-family: "Times New Roman", Times, serif;
   font-size: 0.7292in;
   padding-top: 0.2083in;
 }
 
-h2 {
-  
+h2 { 
   color: lightcoral;
   font-size: 0.4167in;
   padding-top: 0.0521in;
 }
 
 li {
-  
   color: darkslategray;
   display: inline-block;
   font-size: 0.2604in;
@@ -50,7 +44,6 @@ li {
 }
 
 .main-pic {
-  
   display: block;
   margin: 0 auto;
   border-radius: 0%;
@@ -58,7 +51,6 @@ li {
 }
 
 blockquote {
-  
   text-align: center;
   font-size: 0.2292in;
   font-family: "Indie Flower", cursive;
@@ -66,7 +58,6 @@ blockquote {
 }
 
 .noteworthy {
-  
   color: saddlebrown;
   max-width: 7.9167in;
   padding: 0.2083in;
@@ -75,7 +66,6 @@ blockquote {
 }
 
 .tl-img {
-  
   width: 2.0833in;
   height: 1.0417in;
   background-color: white;
@@ -85,22 +75,19 @@ blockquote {
   margin-top: 0.1042in;
 }
 
-.h3 {
-  
+.h3 { 
   font-size: 0.2604in;
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0.0521in;
 }
 
-.description {
-  
+.description { 
   font-size: 0.1875in;
   margin-top: 0;
 }
 
 a p {
-  
   color: #d1a83b;
   text-decoration: none;
   color: #6d5a40;
@@ -108,6 +95,5 @@ a p {
 }
 
 a p:hover {
-  
   font-size: 0.2083in;
 }
