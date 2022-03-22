@@ -16,6 +16,13 @@ body {
   border: 0.0313in solid #d1a83b;
 }
 
+p {
+  color: #d1a83b;
+  text-decoration: none;
+  margin: 0.2083in;
+  font-size: 0.2083in;
+}
+
 h1,
 h2,
 ul,
@@ -69,9 +76,6 @@ blockquote {
   width: 2.0833in;
   height: 1.0417in;
   background-color: white;
-  border: 0.0208in solid #6a5329;
-  margin-right: 0.1563in;
-  float: left;
   margin-top: 0.1042in;
 }
 
@@ -85,11 +89,4 @@ blockquote {
 .description {
   font-size: 0.1875in;
   margin-top: 0;
-}
-
-p {
-  color: #d1a83b;
-  text-decoration: none;
-  margin: 0.2083in;
-  font-size: 0.2083in;
 }
